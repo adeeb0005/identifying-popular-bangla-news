@@ -22,12 +22,12 @@ This project aims to identify the most popular Bangla news articles and explain 
 
 ## Installation and Setup
 
-You need to have Python and Jupyter Notebook installed on your system to run the notebooks. You can follow these steps to set up the environment:
+To run the notebooks, you need to have Python and Jupyter Notebook installed on your system. Follow these steps to set up the environment:
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository-url>
-    cd <repository-folder>
+    git clone https://github.com/adeeb0005/identifying-popular-bangla-news.git
+    cd identifying-popular-bangla-news
     ```
 
 2. **Create a virtual environment**:
@@ -78,5 +78,5 @@ Future work could include:
 
 For any queries or suggestions, please contact:
 - **Abdul Muhaimin Adeeb**: [adeebmuhaimin@gmail.com]
-- **Affiliation**: Session 2018-19, Dept. Of Computer Science and Engineering, [Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj.]
+- **Affiliation**: Session 2018-19, Dept. Of Computer Science and Engineering, Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Gopalganj.
 
